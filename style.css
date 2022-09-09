@@ -1,0 +1,98 @@
+.fa-map-marker{
+    margin-right: 10px;
+  }
+  
+  .footer{
+    padding: 80px;
+    margin: 0 70px 0px;
+  }
+  
+  .fborder{
+    border-left: 2px solid;
+    padding-left: 10px;
+  }
+
+  
+
+  @media (min-width: 320px) and (max-width: 768px) { 
+
+    .brand{
+        height: 30px;
+        width: 80px;
+    }
+}
+
+@media only screen and (width: 320px){
+    .realfooter{
+        margin-top: 195px;
+    }
+}
+
+@media only screen and(max-width: 375px){
+    .realfooter{
+        margin-top: 249px;
+    }
+}
+
+@media only screen and (width: 425px){
+    .realfooter{
+        margin-top: 254px;
+    }
+}
+
+
+@media only screen and (width: 768px){
+    .realfooter{
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 320px){
+    .grill img{
+        width: 200px;
+    }
+}
+
+@media only screen and (width: 768px){
+    .grill img{
+        margin-left: 130px;
+    }
+}
+
+
+
+@media only screen and(max-width: 320px){
+    .outlet{
+        margin-top: 435px;
+    }
+}
+
+@media only screen and (width: 375px){
+    .outlet{
+        margin-top: 200px;
+    }
+}
+
+@media only screen and(width: 425px){
+    .outlet{
+        margin-top: 545px;
+    }
+}
+
+
+@media only screen and (width: 768px){
+    .outlet{
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (width: 1440px){
+    .down{
+        margin-top: 250px;
+    }
+}
+
+
+
+
+
